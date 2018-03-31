@@ -472,6 +472,7 @@ article blockquote cite:before{
     color: #404040;
     display: block;
     height: 100%;
+    padding: 10px 0px;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
@@ -507,6 +508,7 @@ a:focus {
     margin:0;
     padding-left: 2px;
     margin-bottom: 15px;
+    margin-top: 10px;
 }
 
 .post-preview > .post-meta > a {
